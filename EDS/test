@@ -1,0 +1,353 @@
+<div id="about" class="section md-padding">
+
+		<!-- Container -->
+		<div class="container">
+
+			<!-- Row -->
+			<div class="row">
+
+				<!-- Section header -->
+				<div class="section-header text-center">
+					<h2 class="title">Welcome to Website</h2>
+				</div>
+				<!-- /Section header -->
+
+				<!-- about -->
+				<div class="col-md-4">
+					<div class="about">
+						<i class="fa fa-cogs"></i>
+						<h3>Fully Customizible</h3>
+						<p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero sit amet.</p>
+						<a href="#">Read more</a>
+					</div>
+				</div>
+				<!-- /about -->
+
+				<!-- about -->
+				<div class="col-md-4">
+					<div class="about">
+						<i class="fa fa-magic"></i>
+						<h3>Awesome Features</h3>
+						<p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero sit amet.</p>
+						<a href="#">Read more</a>
+					</div>
+				</div>
+				<!-- /about -->
+
+				<!-- about -->
+				<div class="col-md-4">
+					<div class="about">
+						<i class="fa fa-mobile"></i>
+						<h3>Fully Responsive</h3>
+						<p>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero sit amet.</p>
+						<a href="#">Read more</a>
+					</div>
+				</div>
+				<!-- /about -->
+
+			</div>
+			<!-- /Row -->
+
+		</div>
+		<!-- /Container -->
+
+	</div>
+
+	<!-- Work -->
+				<div class="col-md-4 col-xs-6 work">
+					<img class="img-responsive" src="./img/image11.jpg" alt="">
+					<div class="overlay"></div>
+					<div class="work-content">
+						<span>Norwegian Refugee Council</span>
+						<h3>NRC support everyone affected by displacement in Lebanon and advocate for their rights inside the country, regionally and internationally.</h3>
+						<div class="work-link">
+							<a href="https://www.nrc.no/countries/middle-east/lebanon/" target = "_blank"><img src="./img/logo1.jpg" alt="some text" width=30 height=30></a>
+							<a class="lightbox" href="./img/image11.jpg"><i class="fa fa-search"></i></a>
+						</div>
+					</div>
+				</div>
+				<!-- /Work -->
+
+				<!-- Work -->
+				<div class="col-md-4 col-xs-6 work">
+					<img class="img-responsive" src="./img/image22.jpg" alt="">
+					<div class="overlay"></div>
+					<div class="work-content">
+						<span>Save the Children</span>
+						<h3>Save the Children has been working in Lebanon since 1953 and transitioned to Save the Children International in 2012.</h3>
+						<div class="work-link">
+							<a href="https://lebanon.savethechildren.net/about-us" target = "_blank"><img src="./img/logo2.jpg" alt="some text" width=30 height=30></a>
+							<a class="lightbox" href="./img/image22.jpg"><i class="fa fa-search"></i></a>
+						</div>
+					</div>
+				</div>
+				<!-- /Work -->
+
+				<!-- Work -->
+				<div class="col-md-4 col-xs-6 work">
+					<img class="img-responsive" src="./img/image33.jpg" alt="">
+					<div class="overlay"></div>
+					<div class="work-content">
+						<span>International Labour Organization</span>
+						<h3>It is the only tripartite UN agency – bringing together government, employer and worker representatives.</h3>
+						<div class="work-link">
+							<a href="https://www.ilo.org/beirut/countries/lebanon/WCMS_526989/lang--en/index.htm" target = "_blank"><img src="./img/logo3.jpg" alt="some text" width=30 height=30></a>
+							<a class="lightbox" href="./img/image33.jpg"><i class="fa fa-search"></i></a>
+						</div>
+					</div>
+				</div>
+				<!-- /Work -->
+
+				<!-- Work -->
+				<div class="col-md-4 col-xs-6 work">
+					<img class="img-responsive"  src="./img/image44.jpg" alt="">
+					<div class="overlay"></div>
+					<div class="work-content">
+						<span>CARE</span>
+						<h3>In Lebanon, CARE has set up operations in 2013 to support the growing needs of Syrian refugees.</h3>
+						<div class="work-link">
+							<a href="https://www.care.org/country/lebanon" target = "_blank"><img src="./img/logo4.jpg" alt="some text" width=30 height=30></a>
+							<a class="lightbox" href="./img/image44.jpg"><i class="fa fa-search"></i></a>
+						</div>
+					</div>
+				</div>
+				<!-- /Work -->
+
+				<!-- Work -->
+				<div class="col-md-4 col-xs-6 work">
+					<img class="img-responsive" src="./img/image55.jpg" alt="">
+					<div class="overlay"></div>
+					<div class="work-content">
+						<span>Mercy Corps/span>
+						<h3>Mercy Corps is a global team of humanitarians who partner with communities, corporations and governments to transform lives around the world.</h3>
+						<div class="work-link">
+							<a href="https://www.mercycorps.org/countries/lebanon" target = "_blank"><img src="./img/logo5.jpg" alt="some text" width=30 height=30></a>
+							<a class="lightbox" href="./img/image55.jpg"><i class="fa fa-search"></i></a>
+						</div>
+					</div>
+				</div>
+				<!-- /Work -->
+
+				<!-- Work -->
+				<div class="col-md-4 col-xs-6 work">
+					<img class="img-responsive" src="./img/image66.jpg" alt="">
+					<div class="overlay"></div>
+					<div class="work-content">
+						<span>Safadi Foundation</span>
+						<h3>Safadi Foundation is a nonprofit social development organization with nation-wide reach that is working to lift people out of poverty and give them the skills they need to live empowered lives.</h3>
+						<div class="work-link">
+							<a href="https://www.safadi-foundation.org" target = "_blank"><img src="./img/logo6.jpg" alt="some text" width=30 height=30></a>
+							<a class="lightbox" href="./img/image66.jpg"><i class="fa fa-search"></i></a>
+						</div>
+					</div>
+				</div>
+				<!-- /Work -->
+
+				<!-- Work -->
+				<div class="col-md-4 col-xs-6 work">
+					<img class="img-responsive" src="./img/image77.jpg" alt="">
+					<div class="overlay"></div>
+					<div class="work-content">
+						<span>Oxfam International</span>
+						<h3>An international confederation of 19 organizations working together with partners and local communities in more than 90 countries.</h3>
+						<div class="work-link">
+							<a href="https://www.oxfam.org/en/countries/lebanon" target = "_blank"><img src="./img/logo7.jpg" alt="some text" width=30 height=30></a>
+							<a class="lightbox" href="./img/image77.jpg"><i class="fa fa-search"></i></a>
+						</div>
+					</div>
+				</div>
+				<!-- /Work -->
+
+				<!-- Work -->
+				<div class="col-md-4 col-xs-6 work">
+					<img class="img-responsive" src="./img/image88.jpg" alt="">
+					<div class="overlay"></div>
+					<div class="work-content">
+						<span>Plan International</span>
+						<h3>Plan International began operating in Lebanon to address the biggest issues faced by the most vulnerable children in refugee and host communities.</h3>
+						<div class="work-link">
+							<a href="https://plan-international.org/lebanon" target = "_blank"><img src="./img/logo8.jpg" alt="some text" width=30 height=30></a>
+							<a class="lightbox" href="./img/image88.jpg"><i class="fa fa-search"></i></a>
+						</div>
+					</div>
+				</div>
+				<!-- /Work -->
+
+				<!-- Work -->
+				<div class="col-md-4 col-xs-6 work">
+					<img class="img-responsive" src="./img/image99.jpg" alt="">
+					<div class="overlay"></div>
+					<div class="work-content">
+						<span>Oxford Policy Management</span>
+						<h3>We seek to bring about lasting positive change using analytical and practical policy expertise.</h3>
+						<div class="work-link">
+							<a href="https://www.opml.co.uk/" target = "_blank"><img src="./img/logo9.jpg" alt="some text" width=30 height=30></a>
+							<a class="lightbox" href="./img/image99.jpg"><i class="fa fa-search"></i></a>
+						</div>
+					</div>
+				</div>
+				<!-- /Work -->
+
+			</div>
+			<!-- /Row -->
+
+		.services {
+      position: relative;
+    float: left;
+    padding: 5%;
+    width:50%;
+    height: 100%;
+    border-style: solid;
+    border-color: coral;
+  }
+  .services i {
+    padding-left: 15%;
+    position: absolute;
+    left: 20px;
+    text-align: center;
+    font-size: 32px;
+    color: #6195FF;
+    border-radius: 50%;
+    width: 25%;
+}
+
+<!-- service -->
+				<div class="col-md-4 col-sm-6">
+					<div class="service">
+						<i class="fa fa-cogs"></i>
+						<h3>Data collection</h3>
+						<p>Qualitative and quantitative data collection used to store and analyst infomations.</p>
+					</div>
+				</div>
+				<!-- /service -->
+
+				<!-- service -->
+				<div class="col-md-4 col-sm-6">
+					<div class="service">
+						<i class="fa fa-rocket"></i>
+						<h3>Impact-driven Evaluation</h3>
+						<p>The Evaluation assesses the changes such as projects.</p>
+					</div>
+				</div>
+				<!-- /service -->
+
+				<!-- service -->
+				<div class="col-md-4 col-sm-6">
+					<div class="service">
+						<i class="fa fa-cogs"></i>
+						<h3>Academic Research</h3>
+						<p>The purpose is to seek the truth and new knowledge which enhances social development.</p>
+					</div>
+				</div>
+				<!-- /service -->
+
+				<!-- service -->
+				<div class="col-md-4 col-sm-6">
+					<div class="service">
+						<i class="fa fa-diamond"></i>
+						<h3>Gender and community-based analysis</h3>
+						<p>Leads to informed policy-making.</p>
+					</div>
+				</div>
+				<!-- /service -->
+
+				<!-- service -->
+				<div class="col-md-4 col-sm-6">
+					<div class="service">
+						<i class="fa fa-pencil"></i>
+						<h3>Labour market assessments</h3>
+						<p>Estimates wages and the distribution of occupations.</p>
+					</div>
+				</div>
+				<!-- /service -->
+
+				<!-- service -->
+				<div class="col-md-4 col-sm-6">
+					<div class="service">
+						<i class="fa fa-flask"></i>
+						<h3>Policy briefings</h3>
+						<p>Short communications that highlight a particular public health problem and what can be done.</p>
+					</div>
+				</div>
+				<!-- /service -->
+
+
+
+
+
+
+
+
+
+
+<!-- Testimonial -->
+	<div id="testimonial" class="section md-padding">
+
+		<!-- Background Image -->
+		<div class="bg-img" style="background-image: url('./img/background3.jpg');">
+			<div class="overlay"></div>
+		</div>
+		<!-- /Background Image -->
+
+		<!-- Container -->
+		<div class="container">
+
+			<!-- Row -->
+			<div class="row">
+
+				<!-- Testimonial slider -->
+				<div class="col-md-10 col-md-offset-1">
+					<div id="testimonial-slider" class="owl-carousel owl-theme">
+
+						<!-- testimonial -->
+						<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/perso1.jpg" alt="">
+								<h3 class="white-text">Nur Turkmani</h3>
+								<span>My Position</span>
+							</div>
+							<p class="white-text">Nur Turkmani is a Lebanese-Syrian qualitative researcher, working on issues pertaining to gender, refugee livelihoods, democratisation and youth. Her research approach is ethnographic, and she has extensive experience conducting focus groups and in-depth interviews. She holds an MSc from the London School of Economics in Comparative Politics, a BA in Political Science from the American University of Beirut, and a diploma in Conflict Resolution from the University of Amsterdam. Her research focuses on informal employment, gender in the Middle East, the role of youth in the 2011 Arab uprisings, and refugee dynamics and social cohesion in Lebanon. In 2016, she received the Emirates Foundation Scholarship to conduct research on grassroots feminist movements in the Middle East. She loves reading poetry and is currently fascinated with the works of Abu Nuwwas and  Wallada bint-Al Mustakfi.</p>
+						</div>
+						<!-- /testimonial -->
+
+						<!-- testimonial -->
+						<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/perso2.jpg" alt="">
+								<h3 class="white-text">John Doe</h3>
+								<span>Web Designer</span>
+							</div>
+							<p class="white-text">Molestie at elementum eu facilisis sed odio. Scelerisque in dictum non consectetur a erat. Aliquam id diam maecenas ultricies mi eget mauris.</p>
+						</div>
+						<!-- /testimonial -->
+
+						<!-- testimonial -->
+						<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/perso2.jpg" alt="">
+								<h3 class="white-text">John Doe</h3>
+								<span>Web Designer</span>
+							</div>
+							<p class="white-text">Molestie at elementum eu facilisis sed odio. Scelerisque in dictum non consectetur a erat. Aliquam id diam maecenas ultricies mi eget mauris.</p>
+						</div>
+						<!-- /testimonial -->
+
+					</div>
+				</div>
+				<!-- /Testimonial slider -->
+			</div>	
+
+		</div>
+		<!-- /Container -->
+
+	</div>
+	<!-- /Testimonial -->
+
+
+<header id="home">
+		<!-- Background Image -->
+		<div class="bg-img" style="background-image: url('./img/background1.jpg');">
+			
+			<div class="overlay"></div>
+		</div>
+		<!-- /Background Image -->
